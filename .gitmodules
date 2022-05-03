@@ -1,0 +1,12 @@
+[submodule "Ignite-lab-01-purchases"]
+	path = Ignite-lab-01-purchases
+	url = https://github.com/Luciano-Ferreira/Ignite-lab-01-purchases
+[submodule "Ignite-lab-01-classroom"]
+	path = Ignite-lab-01-classroom
+	url = https://github.com/Luciano-Ferreira/Ignite-lab-01-classroom
+[submodule "Ignite-lab-01-gateway"]
+	path = Ignite-lab-01-gateway
+	url = https://github.com/Luciano-Ferreira/Ignite-lab-01-gateway
+[submodule "Ignite-lab-01-frontend"]
+	path = Ignite-lab-01-frontend
+	url = https://github.com/Luciano-Ferreira/Ignite-lab-01-frontend
